@@ -1,0 +1,27 @@
+{
+  "short_name": "Hello app",
+  "name": "Hello app",
+  "description": "this app pwa hello",
+  "icons": [
+    {
+      "src": "",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "https://github.com/maxence-charriere/go-app/blob/master/docs/web/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://github.com/maxence-charriere/go-app/blob/master/docs/web/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "scope": "/gopwabuild/",
+  "start_url": "/gopwabuild/",
+  "background_color": "#2d2c2c",
+  "theme_color": "#2d2c2c",
+  "display": "standalone"
+}
